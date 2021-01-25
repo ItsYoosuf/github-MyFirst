@@ -2,5 +2,5 @@
 layout : slide
 title : "Welcome to our second slide !"
 ---------
-its Been an honour
+Yo sup bruh
 Click Left Arrow to go back
